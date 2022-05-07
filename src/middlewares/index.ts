@@ -1,1 +1,1 @@
-export * from './hasDeeplink.ts';
+export * from './hasDeepLink.ts';
