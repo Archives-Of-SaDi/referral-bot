@@ -1,4 +1,4 @@
-import { Bot } from '../packages/index.ts';
+import { Bot } from "../packages/index.ts";
 import "https://deno.land/x/dotenv@v3.2.0/load.ts";
 
 if (!Deno.env.get("BOT_TOKEN")) {
